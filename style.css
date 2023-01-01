@@ -1,0 +1,135 @@
+/*CLASSIC SEMENTIQ*/
+
+/*:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+header > .recrutement {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    margin: 0px;
+    background-color: #f5f5f5;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-right: 15px;
+}
+
+a {
+
+    text-decoration: none;
+    color: inherit;
+    justify-content: center;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-underline: red;
+}
+
+
+/*NORMAL CLASS*/
+
+/*:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/
+.navigation {
+    display: flex;
+    flex-direction: column;
+}
+
+.global_loption {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list_global-option {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    justify-content: space-between;
+    font-family: Verdana;
+}
+
+.Logo_jo_recherche_profils {
+    display: flex;
+}
+
+.logos-of-Jo-jop {
+    display: flex;
+    padding-right: 300px;
+    align-items: last baseline;
+}
+
+.compte {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 5px;
+
+}
+
+.nav_rechercher {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 5px;
+
+}
+
+.gamme_option {
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    background-color: #282830;
+    font-family: Verdana;
+
+}
+
+.list_gamme {
+    display: flex;
+    text-align: center;
+    list-style: none;
+    justify-content: space-around;
+    padding: 20px;
+    gap: 40px;
+
+}
+
+
+/*:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/
+
+/*CLASS IMAGE*/
+
+.logo_jo {
+    width: 40px;
+    border-right: solid 1px;
+    padding: 2px;
+}
+
+.logo_toy {
+    width: 80px;
+    padding: 0px;
+    height: 50px;
+    margin: 0px;
+    justify-content: flex-start;
+}
+
+.loupe_recherche {
+    width: 20px;
+}
+
+.logo_jo_para {
+    width: 60px;
+}
+
+.logo_user_picture {
+    width: 20px;
+}
+
+/*:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/
+
+
+
+
